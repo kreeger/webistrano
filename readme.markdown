@@ -22,14 +22,14 @@ The others are optional entries for development and testing.
 
 Then create the database structure with Rake:
 
-``` bash
+```
 $ cd webistrano
 $ RAILS_ENV=production rake db:migrate
 ```
 
 ### Start Webistrano
 
-``` bash
+```
 $ cd webistrano
 $ ruby script/server -d -p 3000 -e production
 ```
