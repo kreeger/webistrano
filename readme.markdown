@@ -36,7 +36,8 @@ The default user is `admin`, the password is `admin`. Please change the password
 
 ## Authors
 
-Jonathan Weiss <jw@innerewut.de>
+- [Jonathan Weiss](mailto:jw@innerewut.de)
+- Forked and updated by [Ben Kreeger](mailto:ben@kree.gr)
 
 ## License
 
