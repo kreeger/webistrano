@@ -38,6 +38,8 @@ The default user is `admin`, the password is `admin`. Please change the password
 
 Jonathan Weiss <jw@innerewut.de>
 
+Forked and updated by Ben Kreeger <ben@kree.gr>.
+
 ## License
 
 Code: BSD, see LICENSE.txt
